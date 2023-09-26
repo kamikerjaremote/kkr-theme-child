@@ -1,0 +1,15 @@
+# IDE
+/.idea
+/.vscode
+
+# Library
+/node_modules
+/vendor
+
+# Extras
+.env
+sniffer.txt
+
+# OS
+*.DS_Store
+.DS_Store
